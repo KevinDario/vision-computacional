@@ -9,3 +9,4 @@ rotada = imagen.rotate(180)
 
 rotada.save(nombre.split('.', 1)[0] + '-rotada.png')
 rotada.show()
+print 'hola'
